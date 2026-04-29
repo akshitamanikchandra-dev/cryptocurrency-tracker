@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker
+# Cryptocurrency Protfolio Tracker
 
 A Flask-based web app to track cryptocurrency holdings, current value, and profit/loss using live price data from the CoinGecko API.
 
